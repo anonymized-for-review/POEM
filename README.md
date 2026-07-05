@@ -13,3 +13,5 @@ This R package implements power-enhanced mediation tests in "Power Enhancement i
   dependencies = TRUE
 )
 `
+
+The code and processed data used for the simulation studies and empirical analysis in the paper are available at https://github.com/anonymized-for-review/Power-Enhancement-in-HD-Mediation. 
